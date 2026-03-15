@@ -2,7 +2,7 @@
 
 > 一个开源的、可自定义字数要求的综应/申论答题卡生成工具，支持在线预览与 PDF 下载。
 
-[![示例截图](https://github.com/MF-142/Comprehensive-Application-Ability-answer_card/blob/main/%E9%A2%84%E8%A7%88.png?raw=true)
+![示例截图](https://github.com/MF-142/Comprehensive-Application-Ability-answer_card/blob/main/%E9%A2%84%E8%A7%88.png?raw=true)
 
 本工具专为公务员考试、事业单位《综合应用能力》等主观题练习设计，帮助考生在标准答题卡格式下进行模拟作答，提升卷面规范意识。
 
