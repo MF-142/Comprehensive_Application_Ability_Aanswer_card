@@ -1,4 +1,4 @@
-# 智能主观题答题卡生成器
+# 综应答题卡生成器
 
 > 一个开源的、可自定义字数要求的综应/申论答题卡生成工具，支持在线预览与 PDF 下载。
 
@@ -23,7 +23,7 @@
 
 ### 方式一：在线使用（推荐）
 访问部署好的在线版本（如有）：
-> ⏳ *（你可在此处填写你的 Vercel / GitHub Pages / Netlify 链接）*
+> [⏳ *（你可在此处填写你的 Vercel / GitHub Pages / Netlify 链接）*](https://mf-142.github.io/Comprehensive-Application-Ability-answer_card/)
 
 ### 方式二：本地运行
 1. 点击右上角 **`Code` → `Download ZIP`** 下载项目
