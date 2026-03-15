@@ -23,7 +23,7 @@
 
 ### 方式一：在线使用（推荐）
 访问部署好的在线版本：
-> [⏳ *（你可在此处填写你的 Vercel / GitHub Pages / Netlify 链接）*](https://mf-142.github.io/Comprehensive-Application-Ability-answer_card/)
+> [⏳ * GitHub Pages ：*](https://mf-142.github.io/Comprehensive-Application-Ability-answer_card/)
 
 ### 方式二：本地运行
 1. 点击右上角 **`Code` → `Download ZIP`** 下载项目
